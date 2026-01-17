@@ -1,7 +1,15 @@
 #include <stdio.h>
 
-int main(void)
+int function(void)
 {
-	printf("testin...\n");
+
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+	printf("aaaaaaa\n")
+
 	return 0;
 }
